@@ -1,0 +1,177 @@
+D:\Omar\Sem5\db\Fantasy\bin\Fantasy.dll.config
+D:\Omar\Sem5\db\Fantasy\bin\Fantasy.dll
+D:\Omar\Sem5\db\Fantasy\bin\Fantasy.pdb
+D:\Omar\Sem5\db\Fantasy\bin\roslyn\csc.exe
+D:\Omar\Sem5\db\Fantasy\bin\roslyn\csc.exe.config
+D:\Omar\Sem5\db\Fantasy\bin\roslyn\csc.rsp
+D:\Omar\Sem5\db\Fantasy\bin\roslyn\csi.exe
+D:\Omar\Sem5\db\Fantasy\bin\roslyn\csi.exe.config
+D:\Omar\Sem5\db\Fantasy\bin\roslyn\csi.rsp
+D:\Omar\Sem5\db\Fantasy\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Omar\Sem5\db\Fantasy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Omar\Sem5\db\Fantasy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Omar\Sem5\db\Fantasy\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Omar\Sem5\db\Fantasy\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Omar\Sem5\db\Fantasy\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Omar\Sem5\db\Fantasy\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Omar\Sem5\db\Fantasy\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Omar\Sem5\db\Fantasy\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Omar\Sem5\db\Fantasy\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Omar\Sem5\db\Fantasy\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Omar\Sem5\db\Fantasy\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Omar\Sem5\db\Fantasy\bin\roslyn\System.AppContext.dll
+D:\Omar\Sem5\db\Fantasy\bin\roslyn\System.Collections.Immutable.dll
+D:\Omar\Sem5\db\Fantasy\bin\roslyn\System.Console.dll
+D:\Omar\Sem5\db\Fantasy\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Omar\Sem5\db\Fantasy\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Omar\Sem5\db\Fantasy\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Omar\Sem5\db\Fantasy\bin\roslyn\System.Globalization.Calendars.dll
+D:\Omar\Sem5\db\Fantasy\bin\roslyn\System.IO.Compression.dll
+D:\Omar\Sem5\db\Fantasy\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Omar\Sem5\db\Fantasy\bin\roslyn\System.IO.FileSystem.dll
+D:\Omar\Sem5\db\Fantasy\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Omar\Sem5\db\Fantasy\bin\roslyn\System.Net.Http.dll
+D:\Omar\Sem5\db\Fantasy\bin\roslyn\System.Net.Sockets.dll
+D:\Omar\Sem5\db\Fantasy\bin\roslyn\System.Reflection.Metadata.dll
+D:\Omar\Sem5\db\Fantasy\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Omar\Sem5\db\Fantasy\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Omar\Sem5\db\Fantasy\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Omar\Sem5\db\Fantasy\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Omar\Sem5\db\Fantasy\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Omar\Sem5\db\Fantasy\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Omar\Sem5\db\Fantasy\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Omar\Sem5\db\Fantasy\bin\roslyn\System.ValueTuple.dll
+D:\Omar\Sem5\db\Fantasy\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Omar\Sem5\db\Fantasy\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Omar\Sem5\db\Fantasy\bin\roslyn\System.Xml.XPath.dll
+D:\Omar\Sem5\db\Fantasy\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Omar\Sem5\db\Fantasy\bin\roslyn\vbc.exe
+D:\Omar\Sem5\db\Fantasy\bin\roslyn\vbc.exe.config
+D:\Omar\Sem5\db\Fantasy\bin\roslyn\vbc.rsp
+D:\Omar\Sem5\db\Fantasy\bin\roslyn\VBCSCompiler.exe
+D:\Omar\Sem5\db\Fantasy\bin\roslyn\VBCSCompiler.exe.config
+D:\Omar\Sem5\db\Fantasy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Omar\Sem5\db\Fantasy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Omar\Sem5\db\Fantasy\obj\Debug\Fantasy.csproj.AssemblyReference.cache
+D:\Omar\Sem5\db\Fantasy\obj\Debug\Fantasy.csproj.CoreCompileInputs.cache
+D:\Omar\Sem5\db\Fantasy\obj\Debug\Fantasy.csproj.CopyComplete
+D:\Omar\Sem5\db\Fantasy\obj\Debug\Fantasy.dll
+D:\Omar\Sem5\db\Fantasy\obj\Debug\Fantasy.pdb
+C:\Users\Malak Labib\Desktop\Fantasy_V1\Fantasy\bin\Fantasy.dll.config
+C:\Users\Malak Labib\Desktop\Fantasy_V1\Fantasy\bin\Fantasy.dll
+C:\Users\Malak Labib\Desktop\Fantasy_V1\Fantasy\bin\Fantasy.pdb
+C:\Users\Malak Labib\Desktop\Fantasy_V1\Fantasy\bin\roslyn\csc.exe
+C:\Users\Malak Labib\Desktop\Fantasy_V1\Fantasy\bin\roslyn\csc.exe.config
+C:\Users\Malak Labib\Desktop\Fantasy_V1\Fantasy\bin\roslyn\csc.rsp
+C:\Users\Malak Labib\Desktop\Fantasy_V1\Fantasy\bin\roslyn\csi.exe
+C:\Users\Malak Labib\Desktop\Fantasy_V1\Fantasy\bin\roslyn\csi.exe.config
+C:\Users\Malak Labib\Desktop\Fantasy_V1\Fantasy\bin\roslyn\csi.rsp
+C:\Users\Malak Labib\Desktop\Fantasy_V1\Fantasy\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Malak Labib\Desktop\Fantasy_V1\Fantasy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Malak Labib\Desktop\Fantasy_V1\Fantasy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Malak Labib\Desktop\Fantasy_V1\Fantasy\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Malak Labib\Desktop\Fantasy_V1\Fantasy\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Malak Labib\Desktop\Fantasy_V1\Fantasy\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Malak Labib\Desktop\Fantasy_V1\Fantasy\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Malak Labib\Desktop\Fantasy_V1\Fantasy\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Malak Labib\Desktop\Fantasy_V1\Fantasy\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Malak Labib\Desktop\Fantasy_V1\Fantasy\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Malak Labib\Desktop\Fantasy_V1\Fantasy\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Malak Labib\Desktop\Fantasy_V1\Fantasy\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Malak Labib\Desktop\Fantasy_V1\Fantasy\bin\roslyn\System.AppContext.dll
+C:\Users\Malak Labib\Desktop\Fantasy_V1\Fantasy\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Malak Labib\Desktop\Fantasy_V1\Fantasy\bin\roslyn\System.Console.dll
+C:\Users\Malak Labib\Desktop\Fantasy_V1\Fantasy\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Malak Labib\Desktop\Fantasy_V1\Fantasy\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Malak Labib\Desktop\Fantasy_V1\Fantasy\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Malak Labib\Desktop\Fantasy_V1\Fantasy\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Malak Labib\Desktop\Fantasy_V1\Fantasy\bin\roslyn\System.IO.Compression.dll
+C:\Users\Malak Labib\Desktop\Fantasy_V1\Fantasy\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Malak Labib\Desktop\Fantasy_V1\Fantasy\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Malak Labib\Desktop\Fantasy_V1\Fantasy\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Malak Labib\Desktop\Fantasy_V1\Fantasy\bin\roslyn\System.Net.Http.dll
+C:\Users\Malak Labib\Desktop\Fantasy_V1\Fantasy\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Malak Labib\Desktop\Fantasy_V1\Fantasy\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Malak Labib\Desktop\Fantasy_V1\Fantasy\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Malak Labib\Desktop\Fantasy_V1\Fantasy\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Malak Labib\Desktop\Fantasy_V1\Fantasy\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Malak Labib\Desktop\Fantasy_V1\Fantasy\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Malak Labib\Desktop\Fantasy_V1\Fantasy\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Malak Labib\Desktop\Fantasy_V1\Fantasy\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Malak Labib\Desktop\Fantasy_V1\Fantasy\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Malak Labib\Desktop\Fantasy_V1\Fantasy\bin\roslyn\System.ValueTuple.dll
+C:\Users\Malak Labib\Desktop\Fantasy_V1\Fantasy\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Malak Labib\Desktop\Fantasy_V1\Fantasy\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Malak Labib\Desktop\Fantasy_V1\Fantasy\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Malak Labib\Desktop\Fantasy_V1\Fantasy\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Malak Labib\Desktop\Fantasy_V1\Fantasy\bin\roslyn\vbc.exe
+C:\Users\Malak Labib\Desktop\Fantasy_V1\Fantasy\bin\roslyn\vbc.exe.config
+C:\Users\Malak Labib\Desktop\Fantasy_V1\Fantasy\bin\roslyn\vbc.rsp
+C:\Users\Malak Labib\Desktop\Fantasy_V1\Fantasy\bin\roslyn\VBCSCompiler.exe
+C:\Users\Malak Labib\Desktop\Fantasy_V1\Fantasy\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Malak Labib\Desktop\Fantasy_V1\Fantasy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Malak Labib\Desktop\Fantasy_V1\Fantasy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Malak Labib\Desktop\Fantasy_V1\Fantasy\obj\Debug\Fantasy.csproj.AssemblyReference.cache
+C:\Users\Malak Labib\Desktop\Fantasy_V1\Fantasy\obj\Debug\Fantasy.csproj.CoreCompileInputs.cache
+C:\Users\Malak Labib\Desktop\Fantasy_V1\Fantasy\obj\Debug\Fantasy.csproj.CopyComplete
+C:\Users\Malak Labib\Desktop\Fantasy_V1\Fantasy\obj\Debug\Fantasy.dll
+C:\Users\Malak Labib\Desktop\Fantasy_V1\Fantasy\obj\Debug\Fantasy.pdb
+D:\Omar\Sem5\db\Fantasy_V2\Fantasy_V1\Fantasy\obj\Debug\Fantasy.csproj.AssemblyReference.cache
+D:\Omar\Sem5\db\Fantasy_V2\Fantasy_V1\Fantasy\obj\Debug\Fantasy.csproj.CoreCompileInputs.cache
+D:\Omar\Sem5\db\Fantasy_V2\Fantasy_V1\Fantasy\obj\Debug\Fantasy.dll
+D:\Omar\Sem5\db\Fantasy_V2\Fantasy_V1\Fantasy\obj\Debug\Fantasy.pdb
+D:\Omar\Sem5\db\Fantasy_V2\Fantasy_V1\Fantasy\bin\Fantasy.dll.config
+D:\Omar\Sem5\db\Fantasy_V2\Fantasy_V1\Fantasy\bin\Fantasy.dll
+D:\Omar\Sem5\db\Fantasy_V2\Fantasy_V1\Fantasy\bin\Fantasy.pdb
+D:\Omar\Sem5\db\Fantasy_V2\Fantasy_V1\Fantasy\bin\roslyn\csc.exe
+D:\Omar\Sem5\db\Fantasy_V2\Fantasy_V1\Fantasy\bin\roslyn\csc.exe.config
+D:\Omar\Sem5\db\Fantasy_V2\Fantasy_V1\Fantasy\bin\roslyn\csc.rsp
+D:\Omar\Sem5\db\Fantasy_V2\Fantasy_V1\Fantasy\bin\roslyn\csi.exe
+D:\Omar\Sem5\db\Fantasy_V2\Fantasy_V1\Fantasy\bin\roslyn\csi.exe.config
+D:\Omar\Sem5\db\Fantasy_V2\Fantasy_V1\Fantasy\bin\roslyn\csi.rsp
+D:\Omar\Sem5\db\Fantasy_V2\Fantasy_V1\Fantasy\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Omar\Sem5\db\Fantasy_V2\Fantasy_V1\Fantasy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Omar\Sem5\db\Fantasy_V2\Fantasy_V1\Fantasy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Omar\Sem5\db\Fantasy_V2\Fantasy_V1\Fantasy\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Omar\Sem5\db\Fantasy_V2\Fantasy_V1\Fantasy\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Omar\Sem5\db\Fantasy_V2\Fantasy_V1\Fantasy\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Omar\Sem5\db\Fantasy_V2\Fantasy_V1\Fantasy\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Omar\Sem5\db\Fantasy_V2\Fantasy_V1\Fantasy\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Omar\Sem5\db\Fantasy_V2\Fantasy_V1\Fantasy\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Omar\Sem5\db\Fantasy_V2\Fantasy_V1\Fantasy\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Omar\Sem5\db\Fantasy_V2\Fantasy_V1\Fantasy\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Omar\Sem5\db\Fantasy_V2\Fantasy_V1\Fantasy\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Omar\Sem5\db\Fantasy_V2\Fantasy_V1\Fantasy\bin\roslyn\System.AppContext.dll
+D:\Omar\Sem5\db\Fantasy_V2\Fantasy_V1\Fantasy\bin\roslyn\System.Collections.Immutable.dll
+D:\Omar\Sem5\db\Fantasy_V2\Fantasy_V1\Fantasy\bin\roslyn\System.Console.dll
+D:\Omar\Sem5\db\Fantasy_V2\Fantasy_V1\Fantasy\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Omar\Sem5\db\Fantasy_V2\Fantasy_V1\Fantasy\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Omar\Sem5\db\Fantasy_V2\Fantasy_V1\Fantasy\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Omar\Sem5\db\Fantasy_V2\Fantasy_V1\Fantasy\bin\roslyn\System.Globalization.Calendars.dll
+D:\Omar\Sem5\db\Fantasy_V2\Fantasy_V1\Fantasy\bin\roslyn\System.IO.Compression.dll
+D:\Omar\Sem5\db\Fantasy_V2\Fantasy_V1\Fantasy\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Omar\Sem5\db\Fantasy_V2\Fantasy_V1\Fantasy\bin\roslyn\System.IO.FileSystem.dll
+D:\Omar\Sem5\db\Fantasy_V2\Fantasy_V1\Fantasy\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Omar\Sem5\db\Fantasy_V2\Fantasy_V1\Fantasy\bin\roslyn\System.Net.Http.dll
+D:\Omar\Sem5\db\Fantasy_V2\Fantasy_V1\Fantasy\bin\roslyn\System.Net.Sockets.dll
+D:\Omar\Sem5\db\Fantasy_V2\Fantasy_V1\Fantasy\bin\roslyn\System.Reflection.Metadata.dll
+D:\Omar\Sem5\db\Fantasy_V2\Fantasy_V1\Fantasy\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Omar\Sem5\db\Fantasy_V2\Fantasy_V1\Fantasy\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Omar\Sem5\db\Fantasy_V2\Fantasy_V1\Fantasy\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Omar\Sem5\db\Fantasy_V2\Fantasy_V1\Fantasy\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Omar\Sem5\db\Fantasy_V2\Fantasy_V1\Fantasy\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Omar\Sem5\db\Fantasy_V2\Fantasy_V1\Fantasy\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Omar\Sem5\db\Fantasy_V2\Fantasy_V1\Fantasy\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Omar\Sem5\db\Fantasy_V2\Fantasy_V1\Fantasy\bin\roslyn\System.ValueTuple.dll
+D:\Omar\Sem5\db\Fantasy_V2\Fantasy_V1\Fantasy\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Omar\Sem5\db\Fantasy_V2\Fantasy_V1\Fantasy\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Omar\Sem5\db\Fantasy_V2\Fantasy_V1\Fantasy\bin\roslyn\System.Xml.XPath.dll
+D:\Omar\Sem5\db\Fantasy_V2\Fantasy_V1\Fantasy\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Omar\Sem5\db\Fantasy_V2\Fantasy_V1\Fantasy\bin\roslyn\vbc.exe
+D:\Omar\Sem5\db\Fantasy_V2\Fantasy_V1\Fantasy\bin\roslyn\vbc.exe.config
+D:\Omar\Sem5\db\Fantasy_V2\Fantasy_V1\Fantasy\bin\roslyn\vbc.rsp
+D:\Omar\Sem5\db\Fantasy_V2\Fantasy_V1\Fantasy\bin\roslyn\VBCSCompiler.exe
+D:\Omar\Sem5\db\Fantasy_V2\Fantasy_V1\Fantasy\bin\roslyn\VBCSCompiler.exe.config
+D:\Omar\Sem5\db\Fantasy_V2\Fantasy_V1\Fantasy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Omar\Sem5\db\Fantasy_V2\Fantasy_V1\Fantasy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Omar\Sem5\db\Fantasy_V2\Fantasy_V1\Fantasy\obj\Debug\Fantasy.csproj.CopyComplete
